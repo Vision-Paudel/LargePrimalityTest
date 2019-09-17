@@ -1,11 +1,11 @@
-# PrimalityTest
-Test for prime numbers.
+# LargePrimalityTest
+Test for large prime numbers.
 -------------------------------
-It can test for prime number up to 10E16. (1 Quintillion)
+It can test for arbritarily large prime number.
 
 I have tried to make it efficient. It tests for large numbers within seconds.
 
-| Includes           | Console       | GUI   |
+| Will Includes      | Console       | GUI   |
 | ------------------ |:-------------:| -----:|
 | Source file(s)     |    &#9745;    |&#9745;|
 | Binary File(s)     |    &#9745;    |&#9745;|
