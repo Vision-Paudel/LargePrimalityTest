@@ -1,7 +1,7 @@
 # LargePrimalityTest
 Test for large prime numbers.
 -------------------------------
-It can test for arbritarily large prime number.
+It can test for arbritarily large prime number by trying to find possible factors.
 
 I have tried to make it efficient. It tests for large numbers within seconds.
 
