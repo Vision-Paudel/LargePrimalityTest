@@ -7,7 +7,7 @@ Command Line Argument to run jar file after entering the directory: ``Java -jar 
 
 I have tried to make it efficient. It tests for large numbers within seconds.
 
-For numbers larger than Long.MAX_VALUE: +9,223,372,036,854,775,807 (~9.2E), it is significantly slower as it needs to be converted to immutable BigInteger object and calculated using it. Program accepts integers in standard notation without commas.
+For numbers larger than Long.MAX_VALUE: +9,223,372,036,854,775,807 (~9.2E), it is significantly slower as it needs to be converted to immutable BigInteger object and calculated using it. Program accepts integers in standard notation without commas. Console displays additional information when running.
 
 | Will Include       | Console       | GUI   |
 | ------------------ |:-------------:| -----:|
